@@ -1,0 +1,4 @@
+baseURL = 'dileepsa/github.io'
+languageCode = 'en-us'
+title = 'Dileepsa'
+theme = "ananke"
