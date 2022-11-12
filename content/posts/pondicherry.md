@@ -4,17 +4,24 @@ date: 2022-11-12T07:20:39+05:30
 draft: false
 ---
 
+![Pondicherry](https://static.javatpoint.com/tourist-places/images/tourist-places-in-pondicherry.jpg)
+
 
 Pondicherry now known as Pudcherry. Pondicherry is a lively destination that offers everything - colonial architechture, pebbeled beaches, historic sites & heritage, a beautiful seaside prominade, and more
 
 
 ## History and Culture
 
+![History and culture](/images/history_culture.jpeg)
+
 Nestled on the Eastern coast of India, Pondicherry is one of the seven Union Territories of India. The Union Territory of Puducherry includes four coastal regions namely Puducherry, Yanam, Mahe, and Karaikal. Pondicherry was once the home for the French and they blended South Indian culture with their own unique tradition.
 
 Therefore, the beautiful French Quarter in Pondicherry gives you a feel of Indian French culture as the portion of France still exists in India. French-style villas, streets, languages, and cuisine are some of the examples with a touch of Dravidian style culture.
 
 ## My Experience in Pondi
+
+![My experience](/images/experience.jpeg)
+
 
 Pondicherry was like a dream. A beautiful dream that was full of clean sandy beaches, laid back colourful streets and European architecture.
 
@@ -59,6 +66,8 @@ All the electric blue street signs will begin with ‘Rue’ and palm trees will
 I simply enjoyed just walking around the streets here. Seeing all the effortless beauty of the buildings and the life which was going on around them.
 
 ### Vist Aurobindo Ashram
+
+![Aurobindo Ashram](/images/aurobindo_ashram.jpeg)
 
 Sri Aurobindo Ashram is a kind of place where you can seek spirituality in a laid-back atmosphere and attain inner peace by meditating in its serene aura. The magical environment of this shrine allows you to forget everything as soon as you step inside the ashram and the beautiful backdrop will leave you awe-struck, thus making the overall setting look even more spectacular.
 
