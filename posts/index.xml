@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Dileepsa</title>
-    <link>https://dileepsa.github.io/blogs/posts/</link>
-    <description>Recent content in Posts on Dileepsa</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 07:20:39 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/blogs/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pondicherry</title>
-      <link>https://dileepsa.github.io/blogs/posts/pondicherry/</link>
-      <pubDate>Sat, 12 Nov 2022 07:20:39 +0530</pubDate>
-      
-      <guid>https://dileepsa.github.io/blogs/posts/pondicherry/</guid>
-      <description>Pondicherry now known as Pudcherry. Pondicherry is a lively destination that offers everything - colonial architechture, pebbeled beaches, historic sites &amp;amp; heritage, a beautiful seaside prominade, and more
-History and Culture Nestled on the Eastern coast of India, Pondicherry is one of the seven Union Territories of India. The Union Territory of Puducherry includes four coastal regions namely Puducherry, Yanam, Mahe, and Karaikal. Pondicherry was once the home for the French and they blended South Indian culture with their own unique tradition.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dileepsa</title><link>https://dileepsa.github.io/posts/</link><description>Recent content in Posts on Dileepsa</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Nov 2022 07:20:39 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Pondicherry</title><link>https://dileepsa.github.io/posts/pondicherry/</link><pubDate>Sat, 12 Nov 2022 07:20:39 +0530</pubDate><guid>https://dileepsa.github.io/posts/pondicherry/</guid><description>Pondicherry now known as Pudcherry. Pondicherry is a lively destination that offers everything - colonial architechture, pebbeled beaches, historic sites &amp;amp; heritage, a beautiful seaside prominade, and more
+History and Culture Nestled on the Eastern coast of India, Pondicherry is one of the seven Union Territories of India. The Union Territory of Puducherry includes four coastal regions namely Puducherry, Yanam, Mahe, and Karaikal. Pondicherry was once the home for the French and they blended South Indian culture with their own unique tradition.</description></item></channel></rss>
