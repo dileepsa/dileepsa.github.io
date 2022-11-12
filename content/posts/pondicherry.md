@@ -1,7 +1,7 @@
 ---
 title: "Pondicherry"
 date: 2022-11-12T07:20:39+05:30
-draft: true
+draft: false
 ---
 
 
