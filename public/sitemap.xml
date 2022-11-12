@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://dileepsa.github.io/blogs/</loc>
-    <lastmod>2022-11-12T07:20:39+05:30</lastmod>
-  </url><url>
-    <loc>https://dileepsa.github.io/blogs/posts/pondicherry/</loc>
-    <lastmod>2022-11-12T07:20:39+05:30</lastmod>
-  </url><url>
-    <loc>https://dileepsa.github.io/blogs/posts/</loc>
-    <lastmod>2022-11-12T07:20:39+05:30</lastmod>
-  </url><url>
-    <loc>https://dileepsa.github.io/blogs/categories/</loc>
-  </url><url>
-    <loc>https://dileepsa.github.io/blogs/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://dileepsa.github.io/categories/</loc></url><url><loc>https://dileepsa.github.io/</loc></url><url><loc>https://dileepsa.github.io/tags/</loc></url></urlset>
