@@ -14,7 +14,7 @@ Pondicherry now known as Pudcherry. Pondicherry is a lively destination that off
 
 ![History and culture](/images/pondicherry/history_culture.jpeg)
 
-Nestled on the Eastern coast of India, Pondicherry is one of the seven Union Territories of India. The Union Territory of Puducherry includes four coastal regions namely Puducherry, Yanam, Mahe, and Karaikal. Pondicherry was once the home for the French and they blended South Indian culture with their own unique tradition.
+Pondicherry was once the home for the French and they blended South Indian culture with their own unique tradition.
 
 Therefore, the beautiful French Quarter in Pondicherry gives you a feel of Indian French culture as the portion of France still exists in India. French-style villas, streets, languages, and cuisine are some of the examples with a touch of Dravidian style culture.
 
@@ -30,8 +30,6 @@ I kept asking myself ‘am I in India or France?’.
 It’s quite a bizarre feeling seeing all French on street signs, cafés and from people’s mouths here! But, the food was to die for. A perfect taste of home and welcome comfort food.
 
 It was like it had its own mood, a rhythm. As you walk around the laid back atmosphere is catching.
-
-The people are so friendly and it’s far less touristy than Goa in the West. This was one of my favourite places in South India.
 
 ## How to reach Pondi
 
@@ -67,8 +65,6 @@ We rented 5 bikes for the second day to roam around pondi. The valentines hostel
 
 French colony is like every photographer’s dream. The typical Pondicherry scenes were vintage bicycles perched up against vibrant yellow walls with oil lamps.
 
-All the electric blue street signs will begin with ‘Rue’ and palm trees will sway on nearly every road! It’s truly a feast for your eyes if you’ve been used to seeing Indian architecture.
-
 I simply enjoyed just walking around the streets here. Seeing all the effortless beauty of the buildings and the life which was going on around them.
 
 ### Vist Aurobindo Ashram
@@ -96,11 +92,7 @@ Here, you can visit the ‘soul of the city’ their famous Matrimandir.
 
 The orb made of gold is a symbol of spiritual significance to those who practice integral yoga, a philosophy which was practised by Shri Aurobindo and “The Mother” here. It took 37 years to build.
 
-If you’re only here for a couple of hours, you can obtain a free pass from the visitor centre to walk to the viewing point. 
-
 It can be a little bit of a mystery getting here as it’s deep in the Pondicherry jungle.
-
-We took cab from Railway station to Auroville and paid 250 rs for person.
 
 ### Chill in the winds of Pondi beach
 
@@ -108,15 +100,7 @@ We took cab from Railway station to Auroville and paid 250 rs for person.
 
 My favourite place in Pondicherry was Prominade beach also known as Rock beach. It’s one of the cleanest beaches in the area and the scenes are just perfect.
 
-You can reach here via an auto, motorbike or taxi and it’s around 20 minutes away from the Railway station
-
 The palm trees, colourful guesthouses and cabanas all contribute to making this the perfect place to spend an afternoon.
-
-The community here are very conscious of making sure this beach remains clean and they’re doing a pretty good job.
-
-Littering is a constant struggle in India wherever you go and beaches, even as pretty as this, aren’t immune to it.
-
-But at Pondi, there’s hardly any rubbish and so it’s just clean sands to enjoy.
 
 We spent all the afternoon playing here. It was a unique experience than other beaches which i have visited.
 
@@ -126,9 +110,7 @@ We spent all the afternoon playing here. It was a unique experience than other b
 
 Right in the heat of Promenade, there is a magnificent statue of Mahatma Gandhi, the father of the nation. The statue is four-meter high, made up of black stones and surrounded by 8 granite pillars.
 
-The space in front of the statue is a place where various cultural and musical activities performed throughout the year.
-
-At Promenade beach, you can see half of the town taking a leisurely walk or spending their evening just be sitting near the beach. The roads of the Promenade get close for vehicles from 5 pm in the evening to early morning making it a perfect place to roam around in the evening freely.  
+At Promenade beach, you can see half of the town taking a leisurely walk or spending their evening just be sitting near the beach.
 
 The place also plays a significant role as it is close to many nearby attractions namely the statue of Joan Arc, the War Memorial, Old Lighthouse, the heritage Town Hall, etc.
 
@@ -136,11 +118,9 @@ The place also plays a significant role as it is close to many nearby attraction
 
 ![Paradise Beach](/images/pondicherry/paradise_beach.jpeg)
 
-Also known as Plage Paradiso, Paradise beaches us locate in Chunnambar. It is an isolated beach and can be reached by taking the ferry across the backwaters which take around 20-30 minutes from Chunnambar boat house located 8 km away from the main city.
+Paradise beaches located in Chunnambar. It is an isolated beach and can be reached by taking the ferry across the backwaters which take around 20-30 minutes from Chunnambar boat house located 8 km away from the main city.
 
 The view of the backwater on the way to the beach is just breathtaking and is surrounded by green and thick mangrove forests. You can also spot a lot of birds on the way to the beach. The sand of the beach is soft & pristine with blue waves of the water. Because of the high current in the water, it is not advisable to go deep. 
-
-At Paradise beach, there are a large number of huts spread across the beach which provide shelter in ran and strong winds. Moreover, they also have a changing room facility where you can change after having fun in the water. 
 
 ![Paradise Beach](/images/pondicherry/prominade_beach.jpeg)
 
