@@ -14,6 +14,8 @@ Mysore city is located at the base of the Chamundi Hills and offers visitors a w
 
 If you are travelling from bangalore, try booking a cab from any travel agency. We booked a traveller and we are around 20 people.
 
+## Things we did in Mysore trip
+
 ## Chamundi hills
 
 ![Chamundi temple](/images/mysore/chamundi_temple.jpeg)

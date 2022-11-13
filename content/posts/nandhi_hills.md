@@ -30,7 +30,6 @@ Nandi Hills sees flocks of tourists here during the time of sunrise and sunset. 
 
 ## Things to do in Nandi Hills
 
-
 Most from Bangalore go for the drive and early sunrise in Nandi Hills. But with its popularity, so has its tourism that promotes living close to nature. There are resorts with various activities like camping, trekking on other hills, paragliding, and cycling.
 
 
