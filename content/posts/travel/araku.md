@@ -30,7 +30,9 @@ Being very chilled in the weather of Araku, this is the perfect time for a Campf
 
 ## Araku Valley
 
-Araku is a picturesque tribal settlement in the Eastern Ghats, For me, the drive is an end in itself, a mind-blowing experience as one navigates through umpteen hair-pin bends on a steep mountain road which snakes its way up the Eastern Ghats to an altitude of some 1200 metres above sea level.  This is one of those road trips on which one does not feel like driving fast but prefer to gently cruise along the serpentine path, inhaling the pristine air and feasting on the visual candy being proffered so generously by Mother Nature.
+Araku is a picturesque tribal settlement in the Eastern Ghats, For me, the drive is an end in itself, a mind-blowing experience as one navigates through umpteen hair-pin bends on a steep mountain road which snakes its way up the Eastern Ghats to an altitude of some 1200 metres above sea level.  
+
+This is one of those road trips on which one does not feel like driving fast but prefer to gently cruise along the serpentine path, inhaling the pristine air and feasting on the visual candy being proffered so generously by Mother Nature.
 
 ## Trek to Ranajilleda Waterfall
 
@@ -40,19 +42,27 @@ This is a beautiful water cascade situated in Ranajilleda. The waterfalls are su
 
 ## Padmapuram Botanical Garden
 
-The British built this 26 acre spanning garden to supply vegetables and fruits to the British soldiers fighting in World War-II. After the war ended, the garden was converted into Horticultural Nursery where flowers and trees of rare species were grown. There are special tree houses built, ten feet above the ground, within this complex meant for overnight stay. These are also known as hanging cottages as they sway when there is a breeze blowing.
+The British built this 26 acre spanning garden to supply vegetables and fruits to the British soldiers fighting in World War-II. After the war ended, the garden was converted into Horticultural Nursery where flowers and trees of rare species were grown. 
+
+There are special tree houses built, ten feet above the ground, within this complex meant for overnight stay. These are also known as hanging cottages as they sway when there is a breeze blowing.
 
 ## Araku Tribal Museum
 
-Your Araku Valley trip cannot be complete without a visit to this museum. There are more than 19 tribes residing in the neighboring areas and the museum offers an insight into their colorful outfits, culture and way of life. Araku Tribal Museum was established in 1996 with the intention of spreading awareness among the tourists about the tribal lifestyle of Eastern Ghats.
+Your Araku Valley trip cannot be complete without a visit to this museum. There are more than 19 tribes residing in the neighboring areas and the museum offers an insight into their colorful outfits, culture and way of life.
+
+ Araku Tribal Museum was established in 1996 with the intention of spreading awareness among the tourists about the tribal lifestyle of Eastern Ghats.
 
 ## Borra Caves
 
-The caverns of Borra spans to a depth of 80 m and is considered the “deepest cave in India”. Borra Caves are well known for irregular formations of stalactites and stalagmites. Some portions of the cave also exhibit varying sizes of speleothems. These mineral rich caves are considered to have been formed 50 million years ago! The caves are lit up with colorful lights which eradicate the scary factor associated with usual cave trips!
+The caverns of Borra spans to a depth of 80 m and is considered the “deepest cave in India”. Borra Caves are well known for irregular formations of stalactites and stalagmites. Some portions of the cave also exhibit varying sizes of speleothems. 
+
+These mineral rich caves are considered to have been formed 50 million years ago! The caves are lit up with colorful lights which eradicate the scary factor associated with usual cave trips!
 
 ## Coffee plantations
 
-Taking its name from Araku Valley, a lush green valley deep in the Indian state of Andhra Pradesh, the Araku Coffee is cultivated in the valley's protected ecosystem which offers the ideal growing conditions for coffee. The weather of the Araku Valley – with its hot days and cold nights along with the iron-rich soil allows the coffee to ripen slowly giving it its aromatic richness and taste.
+Taking its name from Araku Valley, a lush green valley deep in the Indian state of Andhra Pradesh, the Araku Coffee is cultivated in the valley's protected ecosystem which offers the ideal growing conditions for coffee. 
+
+The weather of the Araku Valley – with its hot days and cold nights along with the iron-rich soil allows the coffee to ripen slowly giving it its aromatic richness and taste.
 
 ## Ananthagiri hills
 
