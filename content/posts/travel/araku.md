@@ -14,6 +14,15 @@ Araku Valley in the heart of Andhra Pradesh is undoubtedly a stunner.  Araku Val
 
 We travelled from Vijayawada. It has a good rail connectivity and therefore, it is a preferable mode of transport for tourist commuting to Visakhapatnam. You can take a direct train from Vijayawada railway station to Vishakapatnam.
 
+## Exploring Araku with VENKAT and co...
+
+![Traveller](/images/araku/traveller.jpeg)
+
+We booked a traveller as we are in large number. The traveller guide took care of the itenary.
+As we are lucky enough to get guides like them. Our itenary was very smooth. we didn't face any issues as it was taken care by VENKAT and co...
+
+The best bet to try exploring along with them as they are very curious even though they had visited the places n number of times. The Passion that they have made us amazed.
+
 ## Things we did in Vizag
 
 ## Simhachalam
@@ -112,7 +121,7 @@ It is for the shopping, or for the movies, or for the food, or even for hanging 
 ![Waterfall](/images/araku/waterfall.jpeg)
 
 ![Night view](/images/araku/night_view.jpeg)
-
+![Tribal](/images/araku/tribal.jpeg)
 ![Borra caves](/images/araku/borra_caves_main.jpeg)
 ![Araku tribal](/images/araku/araku_tribal.jpeg)
 ![Love Vizag](/images/araku/love_vizag.jpeg)
