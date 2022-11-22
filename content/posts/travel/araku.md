@@ -2,6 +2,7 @@
 title: "Araku"
 date: 2022-11-14T18:00:59+05:30
 draft: false
+Tags: Travel
 ---
 
 ![Araku main](/images/araku/araku_main.jpeg)

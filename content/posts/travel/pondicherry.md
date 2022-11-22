@@ -2,6 +2,7 @@
 title: "Pondicherry"
 date: 2022-11-12T07:20:39+05:30
 draft: false
+Tags: Travel
 ---
 
 ![Pondicherry](https://static.javatpoint.com/tourist-places/images/tourist-places-in-pondicherry.jpg)
