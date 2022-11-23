@@ -2,7 +2,7 @@
 title: "Nandi Hills"
 date: 2022-11-12T19:53:11+05:30
 draft: false
-Tags: Travel
+Tags: ["Travel"]
 ---
 
 ![Nandi hills](/images/nandi_hills/nandi_hills.jpeg)

@@ -2,7 +2,7 @@
 title: "Srisailam"
 date: 2022-11-13T09:51:21+05:30
 draft: false
-Tags: Travel
+Tags: ["Travel"]
 ---
 
 ![Temple](/images/srisailam/temple_1.jpeg)

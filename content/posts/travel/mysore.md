@@ -2,7 +2,7 @@
 title: "Mysore"
 date: 2022-11-12T14:00:11+05:30
 draft: false
-Tags: Travel
+Tags: ["Travel"]
 ---
 
 ![Palace](/images/mysore/palace.jpeg)
