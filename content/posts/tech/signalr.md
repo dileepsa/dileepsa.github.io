@@ -22,7 +22,7 @@ Currently, I am using signalR client using signalrcore module.
 
 Here is the link to the module: [https://pypi.org/project/signalrcore/]()
 
-We can create different clients using javascript,python,Java etc...
+We can create different clients using javascript,python, Java, c# etc...
 
 ## Hubs
 
@@ -31,3 +31,100 @@ A Hub is a more high-level pipeline built upon the Connection API that allows yo
 ## How Hubs work
 
 When server-side code calls a method on the client, a packet is sent across the active transport that contains the name and parameters of the method to be called (when an object is sent as a method parameter, it is serialized using JSON). The client then matches the method name to methods defined in client-side code. If there is a match, the client method will be executed using the deserialized parameter data.
+
+## Configure SignalR hubs
+
+``` c#
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddSignalR();
+```
+
+## Creating Hubs
+
+``` c#
+
+public class BikesHub : Hub
+{
+    public async Task SendMessage(string user, string message)
+        => await Clients.All.SendAsync("ReceiveMessage", user, message);
+}
+
+```
+
+## Context Object In Hub
+
+The Hub class includes a Context property that contains the following properties with information about the connection:
+
+**Properties**
+
+* ConnectionId
+* User
+* UserIdentifier
+* Items
+* Features
+* ConnectionAborted
+
+## Clients object In Hub
+
+**Properties**
+
+* All
+* Caller
+* Others
+
+## How to send messages to clients ?
+
+**Send to all clients**
+
+``` c#
+public async Task SendMessage(string user, string message)
+    => await Clients.All.SendAsync("ReceiveMessage", user, message);
+```
+
+**Send to Caller**
+
+``` c#
+public async Task SendMessageToCaller(string user, string message)
+    => await Clients.Caller.SendAsync("ReceiveMessage", user, message);
+```
+
+**Send to a Group**
+
+``` c#
+public async Task SendMessageToGroup(string user, string message)
+    => await Clients.Group("SignalR Users").SendAsync("ReceiveMessage", user, message);
+```
+
+## Python Signalrcore client
+
+We were using singalrcore client for communicating with the signalr server.
+
+More about singalcore client module for python : [https://pypi.org/project/signalrcore/]()
+
+## Creating Client
+
+``` python
+from signalrcore.hub_connection_builder import HubConnectionBuilder
+
+server_url = "https://localhost:5001/bikesHub"
+
+hub_connection = HubConnectionBuilder()\
+    .with_url(server_url, options={"verify_ssl": False})\
+    .build()
+
+hub_connection.start()
+
+hub_connection.on_open(lambda: print("connection opened and handshake received ready to send messages"))
+hub_connection.on_close(lambda: print("connection closed"))
+
+def on_bikes_info_update(bikesInfo):
+    print("Simple Bikes info" + bikesInfo);
+
+hub_connection.on("UpdateBikeName", on_bikes_info_update)
+
+input("Enter to quit >>")
+
+hub_connection.stop()
+```
+
