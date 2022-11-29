@@ -49,8 +49,19 @@ while coming back we halted at infinity pool for a photo shoot. Though it was a 
 
 ## Food Street
 
+![Food Street](/images/lepakshi/food_street.webp)
+
 After hitting the traffic in bangalore, we can't drive anymore, so we decided to eat something and here is the best place for people who are hungry enough.
 
 Food street makes you hungry even after you eat enough. There are certain dishes we tried, the food was delicious
 
 Here are some of the things we tried :
+
+**Devanagere Butter Dosa :**
+![Dosa](/images/lepakshi/devanagere_dosa.webp)
+
+**Spring Potato :**
+![Potato](/images/lepakshi/potato.webp)
+
+**Gobi Manchurian :**
+![gobi](/images/lepakshi/gobi.webp)
