@@ -7,6 +7,8 @@ tags: ["Travel"]
 
 After tiring and prolonged work schedule for many weeks, we decided to head towards a place where we could score a completely new experience. We wanted a bike trip along with the experience. So we dediced to explore lepakshi.
 
+![Lepakshi](/images/lepakshi/lepakshi_temple.jpeg)
+
 The name `Lepakshi` formed from the union of two Telugu words  **Le & Pakshi** – which means **Rise & Bird** respectively. As per the Ramayana Mythology Ram helped Jatayu to attain Moksha by uttering these two words. Hence, the name is Lepakshi.
 
 ## Hanging pillar
@@ -25,15 +27,23 @@ This large statue of the mythological bird Jatayu from the Ramayana is a major a
 
 ## Gudibande lake view point
 
+![Gudibande lake](/images/lepakshi/gudibande_lake.jpeg)
+
+
+
 Gudibande lake view point is around 3 km from gudibande fort. It was a perfect destination to see the fog in the morning.
 
 ## Gudibande Fort
+
+![Gudibande Fort](/images/lepakshi/gudibande_fort.jpeg)
 
 The rocky terrain makes for a perfect climb up the hill, great for trekking enthusiasts to find joy in.
 
 Once you reach the summit of the hill, you’ll find a Shiva temple which is believed to be one of the oldest and one of the 108 Jyotirlingas. Witness the sculptures and take in the mesmerizing views from the top.
 
 ## Infinity Pool
+
+![Infinity pool](/images/lepakshi/inifinity_pool.jpeg)
 
 while coming back we halted at infinity pool for a photo shoot. Though it was a good place for a photo buffs. Here are some pictures
 
