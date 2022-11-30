@@ -1,7 +1,7 @@
 ---
 title: "Lepakshi"
 date: 2022-11-29T18:39:01+05:30
-draft: true
+draft: false
 tags: ["Travel"]
 ---
 
