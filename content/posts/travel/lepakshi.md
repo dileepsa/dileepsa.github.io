@@ -13,15 +13,21 @@ The name `Lepakshi` formed from the union of two Telugu words  **Le & Pakshi** �
 
 ## Hanging pillar
 
+![Hanging pillar](/images/lepakshi/hanging_pillar.webp)
+
 The mystery of hanging pillar of Lepakshi is that there is one pillar which grazes the ceiling and is actually hanging in air and not resting on grounds.
 
 Call it the skill and engineering genius of the people who were expert in Vijayanagar style of architecture or an unsolved miracle, the hanging pillar of Lepakshi is one of the most famous in Lepakshi Village!
 
 ## Lepakshi Nandhi
 
+![Lepakshi Nandhi](/images/lepakshi/lepakshi_nandhi.webp)
+
 At 27ft in length and 15ft in height, it is a colossal structure, reputedly India’s biggest monolithic Nandi. Its grand size and the perfectly proportioned body make it a popular photo-op with visitors. 
 
 ## Jatayu
+
+![Jatayu](/images/lepakshi/jatayu.webp)
 
 This large statue of the mythological bird Jatayu from the Ramayana is a major attraction. It is believed that Jatayu fell in here after being attacked by Ravan and “Le Pakshi” means “Rise, bird” in Telugu.
 
