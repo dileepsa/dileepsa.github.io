@@ -2,7 +2,7 @@
 title: "SignalR"
 date: 2022-11-22T23:19:54+05:30
 draft: false
-tags: ["Tech"]
+Tags: ["Tech"]
 ---
 
 ## What is SignalR?
