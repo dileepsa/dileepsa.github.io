@@ -1,6 +1,8 @@
 ---
 title: "Krishnagiri"
 date: 2022-12-24T10:25:28+05:30
+featured_image: "/featured_images/krishnagiri.jpeg"
+description: "The destiny of hills"
 draft: false
 ---
 
