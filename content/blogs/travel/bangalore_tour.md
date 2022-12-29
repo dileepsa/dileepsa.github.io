@@ -2,6 +2,9 @@
 title: "Bangalore Tour"
 date: 2022-11-26T15:12:05+05:30
 draft: false
+description: "Bangalore is the happiest place one can reach"
+featured_image: "/featured_images/bangalore_tour.webp"
+
 tags: ["Travel"]
 ---
 

@@ -2,6 +2,9 @@
 title: "Bannerghatta"
 date: 2022-11-26T00:09:09+05:30
 draft: false
+description: "Place where wild life lives"
+featured_image: "/featured_images/bannerghatta.jpeg"
+
 tags: ["Travel"]
 ---
 
