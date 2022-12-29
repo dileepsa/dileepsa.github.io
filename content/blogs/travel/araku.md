@@ -2,6 +2,9 @@
 title: "Araku"
 date: 2022-11-14T18:00:59+05:30
 draft: false
+description: "A Journey is best measured in friends, rather than miles"
+featured_image:
+
 Tags: ["Travel"]
 ---
 

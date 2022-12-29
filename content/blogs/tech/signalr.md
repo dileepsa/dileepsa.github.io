@@ -2,6 +2,7 @@
 title: "SignalR"
 date: 2022-11-22T23:19:54+05:30
 draft: false
+featured_image: "/featured_images/signalr.webp"
 Tags: ["Tech"]
 ---
 

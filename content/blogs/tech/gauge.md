@@ -2,6 +2,9 @@
 title: "Gauge"
 date: 2022-12-18T20:44:06+05:30
 draft: true
+description: "ThoughtWorks Product"
+featured_image: "/featured_images/gauge.webp"
+
 Tags: ["Tech"]
 ---
 
