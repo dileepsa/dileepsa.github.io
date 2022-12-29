@@ -2,7 +2,9 @@
 title: "Mysore"
 date: 2022-11-12T14:00:11+05:30
 draft: false
-Tags: ["Travel"]
+featured_image: "/featured_images/mysore.jpeg"
+description: "Two eyes are not enough to see the palace"
+tags: ["Travel"]
 ---
 
 ![Palace](/images/mysore/palace.jpeg)

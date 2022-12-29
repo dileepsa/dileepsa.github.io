@@ -1,8 +1,10 @@
 ---
 title: "Nandi Hills"
-date: 2022-11-12T19:53:11+05:30
+date: 2022-12-12T19:53:11+05:30
 draft: false
-Tags: ["Travel"]
+featured_image: "/featured_images/n_hills.jpeg"
+description: "The heart is a temple wherein all truth resides."
+tags: ["Travel"]
 ---
 
 ![Nandi hills](/images/nandi_hills/nandi_hills.jpeg)

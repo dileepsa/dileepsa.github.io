@@ -1,6 +1,6 @@
 ---
 title: "Playwright"
-date: 2022-12-17T09:56:06+05:30
+date: 2022-10-17T09:56:06+05:30
 draft: false
 featured_image: "/featured_images/playwright.webp"
 Tags: ["Tech"]

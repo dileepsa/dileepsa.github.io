@@ -1,8 +1,10 @@
 ---
 title: "Srisailam"
-date: 2022-11-13T09:51:21+05:30
+date: 2022-12-13T09:51:21+05:30
 draft: false
 Tags: ["Travel"]
+featured_image: "/images/srisailam/temple_1.jpeg"
+description: "The heart is a temple wherein all truth resides."
 ---
 
 ![Temple](/images/srisailam/temple_1.jpeg)

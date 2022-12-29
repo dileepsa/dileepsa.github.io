@@ -4,6 +4,7 @@ date: 2022-12-24T10:25:28+05:30
 featured_image: "/featured_images/krishnagiri.jpeg"
 description: "The destiny of hills"
 draft: false
+tags: ["Travel"]
 ---
 
 Blessed with gorgeous natural landscape and an abundance of black granite, the city of Krishnagiri in Tamil Nadu is a must visit for a discerning traveller. The name Krishnagiri literally translates into "Black Hill" - 'Krishna' meaning 'black' and 'giri' meaning mountain. Krishnagiri is very popular for its production of mangoes and hence its often termed as the Mangoes' Own Land.
