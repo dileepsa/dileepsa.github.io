@@ -3,7 +3,7 @@ title: "Nandi Hills"
 date: 2022-12-12T19:53:11+05:30
 draft: false
 featured_image: "/featured_images/n_hills.jpeg"
-description: "The heart is a temple wherein all truth resides."
+description: "Travel is the healthiest addiction"
 tags: ["Travel"]
 ---
 
