@@ -2,6 +2,7 @@ baseURL = 'https://dileepsa.github.io/'
 languageCode = 'en-us'
 title = 'Dileepsa'
 theme = "ananke"
+disqusShortname = "dileepsa"
 
 [params]
   body_classes = "georgia bg-near-white"
