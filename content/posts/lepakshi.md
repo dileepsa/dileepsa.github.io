@@ -1,6 +1,6 @@
 ---
 title: "Lepakshi"
-date: 2022-11-21T18:39:01+05:30
+date: 2022-12-29T18:39:01+05:30
 draft: false
 featured_image: "/featured_images/lepakshi.jpeg"
 description: "I looked temples churches and mosques. But I found Divine within my heart"

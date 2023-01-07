@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on Dileepsa</title>
-    <link>https://dileepsa.github.io/tags/travel/</link>
-    <description>Recent content in Travel on Dileepsa</description>
+    <title>Blogs on Dileepsa</title>
+    <link>https://dileepsa.github.io/blogs/</link>
+    <description>Recent content in Blogs on Dileepsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2022 18:39:01 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 18:39:01 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lepakshi</title>
       <link>https://dileepsa.github.io/blogs/travel/lepakshi/</link>
@@ -96,6 +96,26 @@ How to reach If you are travelling from bangalore, try booking a cab from any tr
       <guid>https://dileepsa.github.io/blogs/travel/krishnagiri/</guid>
       <description>Blessed with gorgeous natural landscape and an abundance of black granite, the city of Krishnagiri in Tamil Nadu is a must visit for a discerning traveller. The name Krishnagiri literally translates into &amp;ldquo;Black Hill&amp;rdquo; - &amp;lsquo;Krishna&amp;rsquo; meaning &amp;lsquo;black&amp;rsquo; and &amp;lsquo;giri&amp;rsquo; meaning mountain. Krishnagiri is very popular for its production of mangoes and hence its often termed as the Mangoes&amp;rsquo; Own Land.
 Best Time to Visit Krishnagiri The best time to visit Krishnagiri is the winter season.</description>
+    </item>
+    
+    <item>
+      <title>SignalR</title>
+      <link>https://dileepsa.github.io/blogs/tech/signalr/</link>
+      <pubDate>Sat, 22 Oct 2022 23:19:54 +0530</pubDate>
+      
+      <guid>https://dileepsa.github.io/blogs/tech/signalr/</guid>
+      <description>What is SignalR? SignalR is a library for ASP.NET developers that simplifies the process of adding real-time web functionality to applications. Real-time web functionality is the ability to have server code push content to connected clients instantly as it becomes available, rather than having the server wait for a client to request new data.
+SignalR provides a simple API for creating server-to-client remote procedure calls (RPC) that call JavaScript functions in client browsers (and other client platforms) from server-side .</description>
+    </item>
+    
+    <item>
+      <title>Playwright</title>
+      <link>https://dileepsa.github.io/blogs/tech/playwright/</link>
+      <pubDate>Mon, 17 Oct 2022 09:56:06 +0530</pubDate>
+      
+      <guid>https://dileepsa.github.io/blogs/tech/playwright/</guid>
+      <description>What is Playwright framework ? Playwright was created specifically to accommodate the needs of end-to-end testing. Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox. Test on Windows, Linux, and macOS, locally or on CI, headless or headed with native mobile emulation. Built by the Microsoft team.
+Not only is it versatile and easy to work with, but it has lightning-fast execution speeds and some great features that are unique to the Playwright framework, such as Trace Viewer and Test Generator.</description>
     </item>
     
   </channel>

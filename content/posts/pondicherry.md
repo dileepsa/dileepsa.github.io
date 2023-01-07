@@ -1,6 +1,6 @@
 ---
 title: "Pondicherry"
-date: 2023-1-1T07:20:39+05:30
+date: 2022-12-17T07:20:39+05:30
 featured_image: "images/pondicherry/rock_beach.jpeg"
 description: "After a visit to the beach. It's hard to believe that we live in material world"
 draft: false
