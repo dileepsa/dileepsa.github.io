@@ -9,20 +9,20 @@
     <lastBuildDate>Sat, 22 Oct 2022 23:19:54 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SignalR</title>
-      <link>https://dileepsa.github.io/blogs/tech/signalr/</link>
+      <link>https://dileepsa.github.io/posts/signalr/</link>
       <pubDate>Sat, 22 Oct 2022 23:19:54 +0530</pubDate>
       
-      <guid>https://dileepsa.github.io/blogs/tech/signalr/</guid>
+      <guid>https://dileepsa.github.io/posts/signalr/</guid>
       <description>What is SignalR? SignalR is a library for ASP.NET developers that simplifies the process of adding real-time web functionality to applications. Real-time web functionality is the ability to have server code push content to connected clients instantly as it becomes available, rather than having the server wait for a client to request new data.
 SignalR provides a simple API for creating server-to-client remote procedure calls (RPC) that call JavaScript functions in client browsers (and other client platforms) from server-side .</description>
     </item>
     
     <item>
       <title>Playwright</title>
-      <link>https://dileepsa.github.io/blogs/tech/playwright/</link>
+      <link>https://dileepsa.github.io/posts/playwright/</link>
       <pubDate>Mon, 17 Oct 2022 09:56:06 +0530</pubDate>
       
-      <guid>https://dileepsa.github.io/blogs/tech/playwright/</guid>
+      <guid>https://dileepsa.github.io/posts/playwright/</guid>
       <description>What is Playwright framework ? Playwright was created specifically to accommodate the needs of end-to-end testing. Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox. Test on Windows, Linux, and macOS, locally or on CI, headless or headed with native mobile emulation. Built by the Microsoft team.
 Not only is it versatile and easy to work with, but it has lightning-fast execution speeds and some great features that are unique to the Playwright framework, such as Trace Viewer and Test Generator.</description>
     </item>

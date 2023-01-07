@@ -6,18 +6,7 @@
     <description>Recent content in Blogs on Dileepsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 07:20:39 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pondicherry</title>
-      <link>https://dileepsa.github.io/blogs/travel/pondicherry/</link>
-      <pubDate>Sat, 17 Dec 2022 07:20:39 +0530</pubDate>
-      
-      <guid>https://dileepsa.github.io/blogs/travel/pondicherry/</guid>
-      <description>Pondicherry now known as Pudcherry. Pondicherry is a lively destination that offers everything - colonial architechture, pebbeled beaches, historic sites &amp;amp; heritage, a beautiful seaside prominade, and more
-History and Culture Pondicherry was once the home for the French and they blended South Indian culture with their own unique tradition.
-Therefore, the beautiful French Quarter in Pondicherry gives you a feel of Indian French culture as the portion of France still exists in India.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 13 Dec 2022 09:51:21 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Srisailam</title>
       <link>https://dileepsa.github.io/blogs/travel/srisailam/</link>
@@ -60,6 +49,16 @@ How to reach bannerghatta The Park is located 22km outside Bangalore City and ca
     </item>
     
     <item>
+      <title>Lepakshi</title>
+      <link>https://dileepsa.github.io/blogs/travel/lepakshi/</link>
+      <pubDate>Mon, 21 Nov 2022 18:39:01 +0530</pubDate>
+      
+      <guid>https://dileepsa.github.io/blogs/travel/lepakshi/</guid>
+      <description>After tiring and prolonged work schedule for many weeks, we decided to head towards a place where we could score a completely new experience. We wanted a bike trip along with the experience. So we dediced to explore lepakshi.
+The name Lepakshi formed from the union of two Telugu words Le &amp;amp; Pakshi – which means Rise &amp;amp; Bird respectively. As per the Ramayana Mythology Ram helped Jatayu to attain Moksha by uttering these two words.</description>
+    </item>
+    
+    <item>
       <title>Araku</title>
       <link>https://dileepsa.github.io/blogs/travel/araku/</link>
       <pubDate>Mon, 14 Nov 2022 18:00:59 +0530</pubDate>
@@ -89,23 +88,14 @@ Best Time to Visit Krishnagiri The best time to visit Krishnagiri is the winter 
     </item>
     
     <item>
-      <title>SignalR</title>
-      <link>https://dileepsa.github.io/blogs/tech/signalr/</link>
-      <pubDate>Sat, 22 Oct 2022 23:19:54 +0530</pubDate>
+      <title>Pondicherry</title>
+      <link>https://dileepsa.github.io/blogs/travel/pondicherry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dileepsa.github.io/blogs/tech/signalr/</guid>
-      <description>What is SignalR? SignalR is a library for ASP.NET developers that simplifies the process of adding real-time web functionality to applications. Real-time web functionality is the ability to have server code push content to connected clients instantly as it becomes available, rather than having the server wait for a client to request new data.
-SignalR provides a simple API for creating server-to-client remote procedure calls (RPC) that call JavaScript functions in client browsers (and other client platforms) from server-side .</description>
-    </item>
-    
-    <item>
-      <title>Playwright</title>
-      <link>https://dileepsa.github.io/blogs/tech/playwright/</link>
-      <pubDate>Mon, 17 Oct 2022 09:56:06 +0530</pubDate>
-      
-      <guid>https://dileepsa.github.io/blogs/tech/playwright/</guid>
-      <description>What is Playwright framework ? Playwright was created specifically to accommodate the needs of end-to-end testing. Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox. Test on Windows, Linux, and macOS, locally or on CI, headless or headed with native mobile emulation. Built by the Microsoft team.
-Not only is it versatile and easy to work with, but it has lightning-fast execution speeds and some great features that are unique to the Playwright framework, such as Trace Viewer and Test Generator.</description>
+      <guid>https://dileepsa.github.io/blogs/travel/pondicherry/</guid>
+      <description>Pondicherry now known as Pudcherry. Pondicherry is a lively destination that offers everything - colonial architechture, pebbeled beaches, historic sites &amp;amp; heritage, a beautiful seaside prominade, and more
+History and Culture Pondicherry was once the home for the French and they blended South Indian culture with their own unique tradition.
+Therefore, the beautiful French Quarter in Pondicherry gives you a feel of Indian French culture as the portion of France still exists in India.</description>
     </item>
     
   </channel>
