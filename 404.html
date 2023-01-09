@@ -1,35 +1,37 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <title>Dileepsa</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="">
-    <meta name="generator" content="Hugo 0.109.0">
-    
-    
-    
-    
-      <meta name="robots" content="noindex, nofollow">
-    
 
-    
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <title>Dileepsa</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="description"
+    content="">
+  <meta name="generator" content="Hugo 0.109.0">
+  
+  
+  
+  
+  <meta name="robots" content="noindex, nofollow">
+  
+
+  
 <link rel="stylesheet" href="/ananke/css/main.min.css" >
 
 
 
-    
-    
-    
-      
+  
 
-    
+  
+  
 
-    
-    
-    <meta property="og:title" content="404 Page not found" />
+  
+
+  
+
+  <meta property="og:title" content="404 Page not found" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://dileepsa.github.io/404.html" />
@@ -38,12 +40,12 @@
 <meta name="twitter:title" content="404 Page not found"/>
 <meta name="twitter:description" content=""/>
 
-	
-  </head>
+  
+</head>
 
-  <body class="ma0 georgia bg-near-white">
+<body class="ma0 avenir bg-near-white">
 
-    
+  
 
   <header>
     <div class="bg-black">
@@ -71,16 +73,79 @@
   </header>
 
 
-    <main class="pb7" role="main">
+  <main class="pb7" role="main">
+    <form method="get" action="">
+      <input id="search" name="q" type="text" />
+      <button type="submit" class="button">search</button>
+      <button type="button" class="button" onclick="removeSearchResults()">clear</button>
+
+    </form>
+    <div id="app"></div>
+
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script>
+
+      const removeSearchResults = () => {
+        $target.innerHTML = null
+      }
+
+      const posts = JSON.parse("[{\"content\":\"After tiring and prolonged work schedule for many weeks, we decided to head towards a place where we could score a completely new experience. We wanted a bike trip along with the experience. So we ded\",\"link\":\"/posts/lepakshi/\",\"title\":\"Lepakshi\"},{\"content\":\"\\nPondicherry now known as Pudcherry. Pondicherry is a lively destination that offers everything - colonial architechture, pebbeled beaches, historic sites \\u0026amp; heritage, a beautiful seaside prominade\",\"link\":\"/posts/pondicherry/\",\"title\":\"Pondicherry\"},{\"content\":\"\\nThe second jyotirling of Shiva , named Mallikarjuna Swamy is located in Srisailam, Andhra Pradesh, also termed as Kashi of the South. It is located at a distance of around 268 kms from Vijayawada in \",\"link\":\"/posts/srisailam/\",\"title\":\"Srisailam\"},{\"content\":\"\\nNandi Hills, a small albeit beautiful town, is just 60 km away from the city of Bangalore and has emerged as the perfect weekend getaway for its people. Even though it is most well-known for its view\",\"link\":\"/posts/nandi_hills/\",\"title\":\"Nandi Hills\"},{\"content\":\"Iskon Temple ISKCON Temple is known for its activities of engagement involving ardent devotees of Lord Krishna.\\nThe architecture of Bangalore\\u0026rsquo;s ISKCON temple is a magnificent presence and is cre\",\"link\":\"/posts/bangalore_tour/\",\"title\":\"Bangalore Tour\"},{\"content\":\"\\nLocated on the outskirts of Bangalore, and usually known as BBBP, the Bengaluru Bannerghatta Biological Park is amongst the most popular and frequently visited destinations in the city. Catering to n\",\"link\":\"/posts/bannerghatta/\",\"title\":\"Bannerghatta\"},{\"content\":\"\\nAraku Valley in the heart of Andhra Pradesh is undoubtedly a stunner. Araku Valley is one of the most spectacular vacation spots in the state of Andhra Pradesh. Surrounded by high mountains, lush gre\",\"link\":\"/posts/araku/\",\"title\":\"Araku\"},{\"content\":\"\\nMysore city is located at the base of the Chamundi Hills and offers visitors a wealth of natural beauty that is matched only by its stunning architecture. With its namesake World Heritage-listed pala\",\"link\":\"/posts/mysore/\",\"title\":\"Mysore\"},{\"content\":\"Blessed with gorgeous natural landscape and an abundance of black granite, the city of Krishnagiri in Tamil Nadu is a must visit for a discerning traveller. The name Krishnagiri literally translates i\",\"link\":\"/posts/krishnagiri/\",\"title\":\"Krishnagiri\"},{\"content\":\"What is SignalR? SignalR is a library for ASP.NET developers that simplifies the process of adding real-time web functionality to applications. Real-time web functionality is the ability to have serve\",\"link\":\"/posts/signalr/\",\"title\":\"SignalR\"},{\"content\":\"What is Playwright framework ? Playwright was created specifically to accommodate the needs of end-to-end testing. Playwright supports all modern rendering engines including Chromium, WebKit, and Fire\",\"link\":\"/posts/playwright/\",\"title\":\"Playwright\"}]");
+      const query = new URLSearchParams(window.location.search);
+      const searchString = query.get('q');
+      document.querySelector('#search').value = searchString;
+      const $target = document.querySelector('#app');
+      console.log(posts)
       
+      const postsByTitle = posts.reduce((acc, curr) => {
+        acc[curr.title] = curr;
+        return acc;
+      }, {});
+
+      fetch('/gen/search-index.json').then(function (res) {
+        return res.json();
+      }).then(function (data) {
+        const index = lunr.Index.load(data);
+        const matches = index.search(searchString);
+        const matchPosts = [];
+        matches.forEach((m) => {
+          const x = postsByTitle[m.ref];
+          matchPosts.push(x);
+        });
+        if (matchPosts.length > 0) {
+          $target.innerHTML = matchPosts.map(p => {
+            return `<div>
+            <h3><a href=${p.link}>${p.title}</a></h3>
+            <p>${p.content}...</p>
+          </div>`;
+          }).join('');
+        } else {
+          $target.innerHTML = `<div>No search results found</div>`;
+        }
+      });
+    </script>
+    
     <article class="center cf pv5 measure-wide-l">
       <h1>
         This is not the page you were looking for
       </h1>
     </article>
 
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  </main>
+  <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://dileepsa.github.io/" >
     &copy;  Dileepsa 2023 
@@ -93,5 +158,6 @@
   </div>
 </footer>
 
-  </body>
+</body>
+
 </html>
