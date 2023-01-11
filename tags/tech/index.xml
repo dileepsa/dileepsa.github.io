@@ -6,7 +6,18 @@
     <description>Recent content in Tech on Dileepsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Oct 2022 23:19:54 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 18:18:53 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jenkins</title>
+      <link>https://dileepsa.github.io/posts/jenkins/</link>
+      <pubDate>Tue, 10 Jan 2023 18:18:53 +0530</pubDate>
+      
+      <guid>https://dileepsa.github.io/posts/jenkins/</guid>
+      <description>What is Jenkins Jenkins, the leading opensource tool for Continuous Integration (CI) and Continuous Deployment (CD) processes.
+Continuous Integration is a process of building and testing the code whenever the developer pushes the code to source control. Continuous Deployment is the process of deploying the code to multiple environments without any human intervention, thus reducing the time to deliver.
+Advantages of Using Jenkins Open Source Cross-Platform Integration Tool Extensible Thriving Plugin Ecosystem Command Line Interface How Jenkins work Trigger a build (manual, periodic, poll SCM) Get the source code from a repository Automatically build and test Generate reports (static code analysis, code coverage) Notify (Email, Twitter, Jabber, Google Calendar) Deploy to servers What Is Jenkins Pipeline Pipeline in Jenkins is a group of jobs (or events) that are interlinked in a particular sequence.</description>
+    </item>
+    
     <item>
       <title>SignalR</title>
       <link>https://dileepsa.github.io/posts/signalr/</link>
