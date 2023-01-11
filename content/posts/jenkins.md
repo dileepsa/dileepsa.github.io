@@ -1,7 +1,7 @@
 ---
 title: "Jenkins"
 date: 2023-01-10T18:18:53+05:30
-draft: true
+draft: false
 tags: ["Tech"]
 featured_image: "/featured_images/jenkins.webp"
 ---
