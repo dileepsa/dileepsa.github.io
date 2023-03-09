@@ -2,7 +2,11 @@
 title: "Kakinada"
 date: 2023-03-06T18:22:44+05:30
 description: "A visit with friends"
-draft: true
+draft: false
+description: "A Bike trip to kakinada from vijayawada"
+featured_image: "images/kakinada/beach_mine.jpeg"
+
+Tags: ["Travel"]
 ---
 
 ## Little about kakinada
