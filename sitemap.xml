@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dileepsa.github.io/</loc>
-    <lastmod>2023-03-06T18:22:44+05:30</lastmod>
+    <loc>https://dileepsa.github.io/posts/coorg/</loc>
+    <lastmod>2023-05-03T15:42:43+05:30</lastmod>
   </url><url>
-    <loc>https://dileepsa.github.io/posts/kakinada/</loc>
-    <lastmod>2023-03-06T18:22:44+05:30</lastmod>
+    <loc>https://dileepsa.github.io/</loc>
+    <lastmod>2023-05-03T15:42:43+05:30</lastmod>
   </url><url>
     <loc>https://dileepsa.github.io/posts/</loc>
-    <lastmod>2023-03-06T18:22:44+05:30</lastmod>
+    <lastmod>2023-05-03T15:42:43+05:30</lastmod>
   </url><url>
     <loc>https://dileepsa.github.io/tags/</loc>
-    <lastmod>2023-03-06T18:22:44+05:30</lastmod>
+    <lastmod>2023-05-03T15:42:43+05:30</lastmod>
   </url><url>
     <loc>https://dileepsa.github.io/tags/travel/</loc>
+    <lastmod>2023-05-03T15:42:43+05:30</lastmod>
+  </url><url>
+    <loc>https://dileepsa.github.io/posts/kakinada/</loc>
     <lastmod>2023-03-06T18:22:44+05:30</lastmod>
   </url><url>
     <loc>https://dileepsa.github.io/posts/jenkins/</loc>
