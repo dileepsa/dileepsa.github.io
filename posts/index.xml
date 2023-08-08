@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Dileepsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2023 15:42:43 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 19:37:54 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET... So many frameworks</title>
+      <link>https://dileepsa.github.io/posts/somanyframeworks/</link>
+      <pubDate>Mon, 07 Aug 2023 19:37:54 +0530</pubDate>
+      
+      <guid>https://dileepsa.github.io/posts/somanyframeworks/</guid>
+      <description>My confusion world 🤷🏻‍♂️. I have started my work with .NET world with little bit of confusion. When i entered .NET world there are lot of frameworks (.NET, .NET framework, .NET core, .NET standard) feels like padhagattam, padhagattam, padhagattam (ignore if you didn&amp;rsquo;t get it). wait&amp;hellip; What is a framework ?. Having lot of questions and confusion in mind, i decided to read which i usually avoid. I got a fair sense of what these frameworks are serving to the plate or used to serve historically.</description>
+    </item>
+    
     <item>
       <title>Coorg</title>
       <link>https://dileepsa.github.io/posts/coorg/</link>
