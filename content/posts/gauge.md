@@ -12,15 +12,6 @@ Tags: ["Tech"]
 
 Gauge is yet another test automation tool that serves many purposes of testing . The founder is ThoughtWorks, the company that also created Selenium and GoCD. Gauge is comparable with Protractor or JUnit extended with Cucumber (if you haven’t heard of these, they are worth checking out).
 
-
-## TABLE OF CONTENTS 
-
-- Setup
-- Writing tests
-- Running the specs
-- Hooks
-- Reports
-
 ### Setup 
 
 To start a new project, create a new folder and run ```gauge init python``` in it. This will setup a basic Gauge project.

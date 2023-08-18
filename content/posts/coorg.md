@@ -8,7 +8,7 @@ featured_image: "/images/coorg/cover_pic.jpeg"
 
 ---
 
-## Coorg
+## Overview
 
 Coorg is located on the eastern slopes of the Western Ghats in Karnataka. With year-round pleasant weather, lush coffee estates and thick forests, it is one of the most sought-after hill destinations in India.
 

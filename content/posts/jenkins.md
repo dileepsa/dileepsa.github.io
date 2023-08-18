@@ -3,27 +3,24 @@ title: "Jenkins"
 date: 2023-01-10T18:18:53+05:30
 draft: false
 tags: ["Tech"]
+show_reading_time: true
 featured_image: "/featured_images/jenkins.webp"
 ---
 
 ## What is Jenkins
-
 ![Jenkins title](/images/jenkins/Jenkins_title.webp)
-
 
 Jenkins, the leading opensource tool for Continuous Integration (CI) and Continuous Deployment (CD) processes.
 
 Continuous Integration is a process of building and testing the code whenever the developer pushes the code to source control. Continuous Deployment is the process of deploying the code to multiple environments without any human intervention, thus reducing the time to deliver.
 
-
-
 ## Advantages of Using Jenkins
 
-  - Open Source
-  - Cross-Platform Integration Tool
-  - Extensible
-  - Thriving Plugin Ecosystem
-  - Command Line Interface
+- Open Source
+- Cross-Platform Integration Tool
+- Extensible
+- Thriving Plugin Ecosystem
+- Command Line Interface
 
 ## How Jenkins work
 

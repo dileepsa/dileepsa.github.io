@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Dileepsa'
 theme = "ananke"
 disqusShortname = "dileepsa"
+show_reading_time= true
 
 [params]
   body_classes = "georgia bg-near-white"

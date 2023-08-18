@@ -2,6 +2,7 @@
 title: ".NET... So many frameworks"
 date: 2023-08-07T19:37:54+05:30
 draft: false
+show_reading_time: true
 featured_image: "https://dotnet.microsoft.com/static/images/illustrations/swimlane-community-documentation.svg?v=n0TqLFDe95LKwHVvtAbNJ4gx-Brix-hfAHbmJvECMgY"
 Tags: ["Tech"]
 ---
@@ -30,15 +31,15 @@ The Framework runs on the Windows operating system. However, some implementation
 
 One of the key features of .NET Core is its ability to run on multiple operating systems, including Windows, Linux, and macOS. Also, it supports numerous languages, including C#, F#, and VB.NET.
 
-## Kya difference  bhaiii ?
+## Difference 🤔?
 
-#### .NET Framework
+### .NET Framework
   - The .NET Framework is the first implementation of .NET which works on Windows only.
   - Its source code is public but Microsoft doesn’t accept third party contributions for it.
   - It has a very rich desktop development framework for windows which include Windows Forms and WPF.
   - It can be used with a docker container, its image size is large and can only be deployed on Windows containers.
 
-#### .NET Core
+### .NET Core
   - .NET Core is the latest implementation of .NET which runs on Windows, Linux, and macOS.
   - Its open-source and Microsoft accepts third party contributions to .NET Core.
   - .NET core has integrating the support for windows forms and WPF.

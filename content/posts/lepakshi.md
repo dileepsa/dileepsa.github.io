@@ -7,6 +7,8 @@ description: "I looked temples churches and mosques. But I found Divine within m
 tags: ["Travel"]
 ---
 
+## Overview
+
 After tiring and prolonged work schedule for many weeks, we decided to head towards a place where we could score a completely new experience. We wanted a bike trip along with the experience. So we dediced to explore lepakshi.
 
 ![Lepakshi](/images/lepakshi/lepakshi_temple.jpeg)

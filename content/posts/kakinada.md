@@ -1,7 +1,6 @@
 ---
 title: "Kakinada"
 date: 2023-03-06T18:22:44+05:30
-description: "A visit with friends"
 draft: false
 description: "A Bike trip to kakinada from vijayawada"
 featured_image: "images/kakinada/beach_mine.jpeg"
@@ -49,6 +48,6 @@ Coringa Wildlife Sanctuary With 24 species of Mangrove trees and more than 120 s
 If you are in kakinada then why not beach, Uppada Beach is one of the safest and the most mesmerising beaches on the eastern coast of India. The beach is also a scenic spot to watch the sunrise and sunset while being a paradise for photographers and nature lovers.
 
 ### Subbayya Hotel
-![Draksharamam](/images/kakinada/subbayagarihotel.webp)
+![Subbayya hotel](/images/kakinada/subbayagarihotel.webp)
 
 Trust me your mouth’s going to crave for this food.
