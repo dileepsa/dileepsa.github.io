@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Dileepsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2023 19:37:54 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 20:24:56 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Framework VS Library</title>
+      <link>https://dileepsa.github.io/posts/frameworkvslibrary/</link>
+      <pubDate>Tue, 08 Aug 2023 20:24:56 +0530</pubDate>
+      
+      <guid>https://dileepsa.github.io/posts/frameworkvslibrary/</guid>
+      <description>Developer&amp;rsquo;s life!!! In our daily development life we will be using different frameworks and libraries. But when asked what&amp;rsquo;s the difference between them, most of them doesn&amp;rsquo;t know. lets take sometime and understand what are these and what&amp;rsquo;s the difference between them.
+What is Library ? A library in programming can be likened to a mechanic&amp;rsquo;s workshop. You have the spanner, set of tyres, set of decoration items and so on.</description>
+    </item>
+    
     <item>
       <title>.NET... So many frameworks</title>
       <link>https://dileepsa.github.io/posts/somanyframeworks/</link>
