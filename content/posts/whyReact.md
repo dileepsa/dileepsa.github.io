@@ -2,7 +2,7 @@
 title: "React"
 date: 2023-08-30T07:24:26+05:30
 show_reading_time: true
-draft: true
+draft: false
 tags: ["Tech"]
 featured_image: "https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
 ---
