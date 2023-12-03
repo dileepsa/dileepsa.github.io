@@ -6,66 +6,55 @@
     <description>Recent content in Tech on Dileepsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2023 07:24:26 +0530</lastBuildDate><atom:link href="https://dileepsa.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Aug 2023 07:24:26 +0530</lastBuildDate>
+    <atom:link href="https://dileepsa.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React</title>
       <link>https://dileepsa.github.io/posts/whyreact/</link>
       <pubDate>Wed, 30 Aug 2023 07:24:26 +0530</pubDate>
-      
       <guid>https://dileepsa.github.io/posts/whyreact/</guid>
       <description>React The React.js framework is an open-source JavaScript framework and library developed by Facebook. It’s used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.
 Why react ? Being a part of the JavaScript language, using React spawns many advantages. Products built with React are simple to scale, a single language used on the server/client/mobile side of things grants outstanding productivity, there are workflow patterns for convenient teamwork, UI code is readable and maintainable, and more.</description>
     </item>
-    
     <item>
       <title>Framework VS Library</title>
       <link>https://dileepsa.github.io/posts/frameworkvslibrary/</link>
       <pubDate>Tue, 08 Aug 2023 20:24:56 +0530</pubDate>
-      
       <guid>https://dileepsa.github.io/posts/frameworkvslibrary/</guid>
       <description>Developer&amp;rsquo;s life!!! In our daily development life we will be using different frameworks and libraries. But when asked what&amp;rsquo;s the difference between them, most of them doesn&amp;rsquo;t know. lets take sometime and understand what are these and what&amp;rsquo;s the difference between them.
 What is Library ? A library in programming can be likened to a mechanic&amp;rsquo;s workshop. You have the spanner, set of tyres, set of decoration items and so on.</description>
     </item>
-    
     <item>
       <title>.NET... So many frameworks</title>
       <link>https://dileepsa.github.io/posts/somanyframeworks/</link>
       <pubDate>Mon, 07 Aug 2023 19:37:54 +0530</pubDate>
-      
       <guid>https://dileepsa.github.io/posts/somanyframeworks/</guid>
       <description>My confusion world 🤷🏻‍♂️. I have started my work with .NET world with little bit of confusion. When i entered .NET world there are lot of frameworks (.NET, .NET framework, .NET core, .NET standard) feels like padhagattam, padhagattam, padhagattam (ignore if you didn&amp;rsquo;t get it). wait&amp;hellip; What is a framework ?. Having lot of questions and confusion in mind, i decided to read which i usually avoid. I got a fair sense of what these frameworks are serving to the plate or used to serve historically.</description>
     </item>
-    
     <item>
       <title>Jenkins</title>
       <link>https://dileepsa.github.io/posts/jenkins/</link>
       <pubDate>Tue, 10 Jan 2023 18:18:53 +0530</pubDate>
-      
       <guid>https://dileepsa.github.io/posts/jenkins/</guid>
       <description>What is Jenkins Jenkins, the leading opensource tool for Continuous Integration (CI) and Continuous Deployment (CD) processes.
 Continuous Integration is a process of building and testing the code whenever the developer pushes the code to source control. Continuous Deployment is the process of deploying the code to multiple environments without any human intervention, thus reducing the time to deliver.
 Advantages of Using Jenkins Open Source Cross-Platform Integration Tool Extensible Thriving Plugin Ecosystem Command Line Interface How Jenkins work Trigger a build (manual, periodic, poll SCM) Get the source code from a repository Automatically build and test Generate reports (static code analysis, code coverage) Notify (Email, Twitter, Jabber, Google Calendar) Deploy to servers What Is Jenkins Pipeline Pipeline in Jenkins is a group of jobs (or events) that are interlinked in a particular sequence.</description>
     </item>
-    
     <item>
       <title>SignalR</title>
       <link>https://dileepsa.github.io/posts/signalr/</link>
       <pubDate>Sat, 22 Oct 2022 23:19:54 +0530</pubDate>
-      
       <guid>https://dileepsa.github.io/posts/signalr/</guid>
       <description>What is SignalR? SignalR is a library for ASP.NET developers that simplifies the process of adding real-time web functionality to applications. Real-time web functionality is the ability to have server code push content to connected clients instantly as it becomes available, rather than having the server wait for a client to request new data.
 SignalR provides a simple API for creating server-to-client remote procedure calls (RPC) that call JavaScript functions in client browsers (and other client platforms) from server-side .</description>
     </item>
-    
     <item>
       <title>Playwright</title>
       <link>https://dileepsa.github.io/posts/playwright/</link>
       <pubDate>Mon, 17 Oct 2022 09:56:06 +0530</pubDate>
-      
       <guid>https://dileepsa.github.io/posts/playwright/</guid>
       <description>What is Playwright framework ? Playwright was created specifically to accommodate the needs of end-to-end testing. Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox. Test on Windows, Linux, and macOS, locally or on CI, headless or headed with native mobile emulation. Built by the Microsoft team.
 Not only is it versatile and easy to work with, but it has lightning-fast execution speeds and some great features that are unique to the Playwright framework, such as Trace Viewer and Test Generator.</description>
     </item>
-    
   </channel>
 </rss>
