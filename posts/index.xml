@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Dileepsa</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2023 18:16:30 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 07:51:51 +0530</lastBuildDate>
     <atom:link href="https://dileepsa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Principles</title>
+      <link>https://dileepsa.github.io/posts/codingprinciples/</link>
+      <pubDate>Wed, 08 May 2024 07:51:51 +0530</pubDate>
+      <guid>https://dileepsa.github.io/posts/codingprinciples/</guid>
+      <description>What are these ? Coding standards set the rules and guidelines that enable your team to create more efficient code that&amp;rsquo;s easier to read, analyze, maintain, and extend.&#xA;Why should I learn these ? These principles are a set of guidelines that help you write better, robust, and clean code. Once, you start applying them, you’ll start seeing the results on the overall process of developing products.&#xA;KISS According to the keep it simple, stupid principle the key to building a successful product is simplicity.</description>
+    </item>
     <item>
       <title>Tamil nadu</title>
       <link>https://dileepsa.github.io/posts/tamilnadu/</link>
